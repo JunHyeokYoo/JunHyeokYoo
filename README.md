@@ -1,10 +1,7 @@
-### Hi there 👋
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=a6c1ee&height=200&section=header&text=Welcome!&fontSize=70&fontColor=ffffcc&animation=fadeIn)
 
 <!--
-**JunHyeokYoo/JunHyeokYoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,4 +11,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
+📚ㅁㄴㅇㅁㄴㅇ
